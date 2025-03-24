@@ -12,11 +12,11 @@ linkedin_username: linkedin
 facebook_username: facebook
 
 # External API
-giscus_repo: 'byanko55/jekyll-theme-satellite'
-giscus_repoId: 'R_kgDOJ6fqWg'
-giscus_category: 'Q&A'
-giscus_categoryId: 'DIC_kwDOJ6fqWs4Cc7p7'
-goatcounter_code: jung-kr
+giscus_repo: 'Jung-kr/Jung-kr.github.io'
+giscus_repoId: 'R_kgDOONju4A'
+giscus_category: 'Announcements'
+giscus_categoryId: 'DIC_kwDOONju4M4CoZht'
+goatcounter_code: 'jung-kr'
 google_analytics:
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
