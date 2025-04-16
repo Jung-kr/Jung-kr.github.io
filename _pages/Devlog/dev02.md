@@ -77,7 +77,7 @@ public class MemberService {
 
 ## 1) 회원가입 기능
 
-### 🔴 Red 단계
+## 🔴 Red 단계
 
 `Member`, `MemberRepository`, `MemberService` 중 비즈니스 로직을 가지고 있는 유일한 클래스는 `MemberService`이므로 해당 클래스에 대한 테스트를 작성합니다. 물론, 아직 기능을 구현하지 않았기 때문에 테스트는 당연히 실패하고 이 실패가 기능이 필요한 근거가 됩니다. 단축키 `Ctrl + Shift + T`로 테스트 코드를 작성할 수 있습니다.
 
@@ -185,7 +185,7 @@ public class Member {
 
 ## 2) 중복 가입 시 예외
 
-### 🔴 Red 단계
+## 🔴 Red 단계
 
 테스트 코드 먼저 작성을 해야겠죠?
 
