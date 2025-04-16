@@ -115,7 +115,7 @@ class MemberServiceTest {
 
 ```java
 @Entity
-@Getter
+@Data
 public class Member {
     @Id
     private String id;
