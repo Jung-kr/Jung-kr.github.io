@@ -1,5 +1,5 @@
 ---
-title: 'IntelliJ 디버깅'
+title: 'IntelliJ 디버깅에 대해'
 tags:
   - IntelliJ
   - debugging
