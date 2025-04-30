@@ -57,7 +57,7 @@ style="display: block; margin: 0 auto; max-width: 300px; max-height: 200px;">
 <img src="/assets/img/frontend/01/front01_1.png" alt="velog 404"
      style="display: block; margin: 0 auto; max-width: 150px; max-height: 100px;">
 
-추가적인 `CSS` 코드 없이, HTML 태그에 클래스만 지정해도 스타일을 바로 적용할 수 있습니다.이렇게 동작하는 이유는, `Tailwind CSS`가 빌드 시점에 사용된 유틸리티 클래스만 모아 필요한 CSS 만 자동으로 생성해주기 때문입니다. 아래는 `Tailwind CSS` 빌드 과정입니다.
+추가적인 `CSS` 코드 없이, HTML 태그에 클래스만 지정해도 스타일을 바로 적용할 수 있습니다. 이렇게 동작하는 이유는, `Tailwind CSS`가 빌드 시점에 사용된 유틸리티 클래스만 모아 필요한 CSS 만 자동으로 생성해주기 때문입니다. 아래는 `Tailwind CSS` 빌드 과정입니다.
 
 - 코드에서 실제로 사용된 클래스 이름(bg-blue-500, px-4 등)을 모두 추출
 - 해당 클래스에 맞는 CSS 규칙만 최종 CSS 파일에 포함
