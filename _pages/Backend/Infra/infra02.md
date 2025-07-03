@@ -4,7 +4,7 @@ tags:
   - CI/CD
   - GitHub Actions
 date: '2025-06-25'
-thumbnail: '/assets/img/infra/01/infra01_0.png'
+thumbnail: '/assets/img/infra/02/infra02_0.png'
 ---
 
 # CI/CD의 개념과 GitHub Actions 실습!
