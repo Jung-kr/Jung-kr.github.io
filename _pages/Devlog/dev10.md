@@ -1,5 +1,5 @@
 ---
-title: '[낙시없는 우리집] LLM과 LLM의 한계를 극복하기 위한 기술 RAG'
+title: '[낚시없는 우리집] LLM과 LLM의 한계를 극복하기 위한 기술 RAG'
 tags:
   - Project
   - LLM
